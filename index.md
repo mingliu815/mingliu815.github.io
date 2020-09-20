@@ -1,8 +1,6 @@
-## Welcome to GitHub Pages
+## Hello, a little bit about me
 
-You can use the [editor on GitHub](https://github.com/mingliu815/mingliu815.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I am a second-year PhD student at Bioinformatics and Computational Biology program in Worcester Polytechnic Institute, Worcester, MA. My research interest lies in applying the power of statistics theory and computer science to explore new genetic factors of complex human diseases. Beyond research, I enjoy singing, baking, swimming, tennis, golf, and hang out with my friends and family. 
 
 ### Markdown
 
